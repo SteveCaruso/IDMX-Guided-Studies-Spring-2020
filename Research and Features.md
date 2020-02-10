@@ -4,8 +4,27 @@
 
 Post example websites for fish tank management below and list things you like or dislike about them:
 
-* [Example]
-
+* [Aquaruium Note for Android]
+  * Not very user friendly
+  * No tutorial
+  * Reviews say app crashes
+  * Not beginner friendly-- you need to know things about keeping fish already for this to be any use for you
+  * You can set recurring alarms and reminders for yourself
+  * You can keep records of your pH, CO2, and other things
+  * Just a glorified record keeping app-- you can't specify species and it doesn't help you learn things.
+    * I tried to put a clownfish in a freshwater tank, the app saw no problems
+    
+* [Aquaruium Manager]
+  * Reviews say only allows for two tanks
+  * Reviews say app crashes often
+  * Detailed database, but you have to know what you're looking for
+    * No "browse" with pictures or anything, you have to type things in and use the auto complete
+    * However, when adding fish you can type in the section you know - common name or scientific name - and it auto populates the rest
+  * Still does not tell you not to put clownfish in freshwater tanks
+  * HORRIBLE contrast at times
+  * Does have a simple tutorial
+  * Good record keeping and includes a diary for miscellaneous notes
+  
 ## Features List:
 
 This will be the Product Backlog for your initial sprints. List different features you'd like to implement here:
