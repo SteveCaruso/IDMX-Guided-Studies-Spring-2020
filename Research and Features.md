@@ -34,6 +34,15 @@ Post example websites for fish tank management below and list things you like or
   * Includes calculators, converters, and expenses
   * Seems really solid, possibly worth the $10 it costs
   
+* [Coral Tank Pro for Apple]
+  * Was not able to download it due to technology and paywall-- all these observations based on reviews and info page
+  * Very pretty high contrast design
+  * Lots of pictures
+  * Charts and analytics
+  * Reviews say it's like a 3 out of 5
+    * Not sufficient for pros, basically a "frilly notepad"
+    * Needs more customization
+  
 ## Features List:
 
 This will be the Product Backlog for your initial sprints. List different features you'd like to implement here:
