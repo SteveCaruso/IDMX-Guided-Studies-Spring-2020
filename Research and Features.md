@@ -29,4 +29,6 @@ Post example websites for fish tank management below and list things you like or
 
 This will be the Product Backlog for your initial sprints. List different features you'd like to implement here:
 
-* [Example]
+* [Database Skimming]
+  * Maybe it can skim info from wikipedia or a reputable fish website, so it can auto populate info
+    * Theoretically at that point it would be able to understand whether a fish is freshwater or saltwater, and other relevant information
