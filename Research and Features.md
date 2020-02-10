@@ -25,7 +25,7 @@ Post example websites for fish tank management below and list things you like or
   * Does have a simple tutorial
   * Good record keeping and includes a diary for miscellaneous notes
   
-* [Aquaruimate for Apple]
+* [Aquarimate for Apple]
   * Was not able to download it due to technology and paywall-- all these observations based on reviews and info page
   * Detailed charts for personal records
   * Task manager and reminder system
