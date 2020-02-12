@@ -43,6 +43,40 @@ Post example websites for fish tank management below and list things you like or
     * Not sufficient for pros, basically a "frilly notepad"
     * Needs more customization
   
+  
+Initial Research Christopher Hurban: 
+
+Fish Farm 3- 3D Aquarium Simulator for Android
+
+•	The fish are realistic looking (all the fish in the game have moving gills and fishes bellies are allowed to grow). 
+•	All of the fish are colored and easy to determine what species of fish that they are. 
+•	The player has the option to zoom into the tank to see your fish at a better angle. 
+•	Each tank aquarium is able to be customizable with decorative items such as plants that survive in water and each aquarium can also have coral. 
+•	The player is easily able to catch fish with just their fingers (very simple).
+•	Within the simulator a player can catch the following seahorses, whales, dolphins, sharks, starfish, jellyfish, and turtles.
+•	Has a straightforward game tutorial. 
+•	If the player doesn’t change the water from their tank, then the fish will soon die since of the condition of the tank. 
+•	Recolored fish cannot be used to breed for your Collection. (I think that a player should be able to recolor their fish especially when they are breeding the fish. It would make it easier for the player to keep track of. 
+•	The simulator has the following options to add to the game. The options are as stated: Saltwater, freshwater, jelly, and open ocean aquariums. Each one of these would offer each fish a better chance of surviving. (Since some fish can only live in certain kinds of water). Some will die If they are in a different kind of water. 
+•	The game has is very colorful. It is easy for the player to determine which tank and which tank that they are feeding.
+•	Feeding fish is very easy to do. All the player has to do is tap on the certain fish that they want to feed and then that fish will no longer have a craving for food. 
+•	The tanks also have lights which make it easy to see inside of the tank. I think that the lights could have more options like having any color available to each and every player. Each player will most likely want a different color to add to their tank.
+•	This app simulator of the fish tank is very well done and I think it’s a really great app especially for being a free app both on the Google Play Store and The Apple App Store. 
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
 ## Features List:
 
 This will be the Product Backlog for your initial sprints. List different features you'd like to implement here:
