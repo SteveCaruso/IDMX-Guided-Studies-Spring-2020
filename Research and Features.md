@@ -42,11 +42,9 @@ Post example websites for fish tank management below and list things you like or
   * Reviews say it's like a 3 out of 5
     * Not sufficient for pros, basically a "frilly notepad"
     * Needs more customization
-  
-  
-Initial Research Christopher Hurban: 
+    
 
-Fish Farm 3- 3D Aquarium Simulator for Android
+Christopher Hurban Fish Farm 3- 3D Aquarium Simulator for Android
 
 •	The fish are realistic looking (all the fish in the game have moving gills and fishes bellies are allowed to grow). 
 
@@ -77,8 +75,7 @@ Fish Farm 3- 3D Aquarium Simulator for Android
 •	This app simulator of the fish tank is very well done and I think it’s a really great app especially for being a free app both on the Google Play Store and The Apple App Store. 
 
 
-
-Aquarium Fish for Android: 
+Christopher Hurban Aquarium Fish for Android: 
 
 •	The aquarium has nice and very easy to see graphics.
 
@@ -114,3 +111,11 @@ This will be the Product Backlog for your initial sprints. List different featur
 * [Database Skimming]
   * Maybe it can skim info from wikipedia or a reputable fish website, so it can auto populate info
     * Theoretically at that point it would be able to understand whether a fish is freshwater or saltwater, and other relevant information
+    
+Christopher Hurban- I would like to see that the bellie of the fish grows when they are food. Fish would have to be introduced in order for this to happen. 
+
+Christopher Hurban- I would also like to see introduced that each color be a different color. Having the fish, a different color would it make easy to find the fish that are in desperate need of fish food. 
+
+Christopher Hurban- I also think it would be a good idea to introduce more space to the fish tank. If you press on the add more fish button there should be an option to add more tank space so that all the fish can move freely and not run into each other. 
+
+    
