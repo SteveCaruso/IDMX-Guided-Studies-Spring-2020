@@ -78,18 +78,35 @@ Fish Farm 3- 3D Aquarium Simulator for Android
 
 
 
+Aquarium Fish for Android: 
+
+•	The aquarium has nice and very easy to see graphics.
+
+•	Simple to use user interface
+
+•	This app allows you to easily configure the size of the tank that you want to have. 
+
+•	Different types of plants are able to be grown within the aquarium. 
+
+•	The water changes color and will also become dirty just like an actual fish tank. 
+
+•	The tank will also change temperature. The user has be careful that their fish in that tank are healthy. 
+
+•	The fish multiply just like in real life. The fish will multiply within the aquarium and some will stay alive and then the other fish will die off. 
+
+•	Many kinds of fish that are available to purchase within the game store. 
+
+•	This app has a function called Acceleration which is pressed in order to speed up the events taking place in the app.
+
+•	There are no limits on the amount of decorations or plants, or equipment offered in a tank. I find that a very cool feature to have on a app aquarium. 
+
+•	The user is allowed to put in as many fish as they want to have within the fish tank. 
+
+•	User is also allowed to have unlimited number of fish tanks on their app. 
+
+•	The interactions made with just the press of your finger as the player will affect the fish and the tank that those fish are in. 
 
 
-
-
-  
-  
-  
-  
-  
-  
-  
-  
 ## Features List:
 
 This will be the Product Backlog for your initial sprints. List different features you'd like to implement here:
