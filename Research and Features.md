@@ -118,4 +118,88 @@ Christopher Hurban- I would also like to see introduced that each color be a dif
 
 Christopher Hurban- I also think it would be a good idea to introduce more space to the fish tank. If you press on the add more fish button there should be an option to add more tank space so that all the fish can move freely and not run into each other. 
 
-    
+ ## Fishtank Websites: (Himani)
+ 
+ https://aquariumfish.ecwid.com/cart
+ This website has more information about fish than the other.
+* Size:
+* Above: info. about picture(how and when/ men or women)  
+* Comments:
+* Click here button to learn more about Fish.
+* Origin: 
+* Olor varieties:
+* Maximum Size: 
+* Behaviors: 
+* Compatibility: 
+* Click here button to read more about compatible groups fish.
+* Temperature: 
+* Feeding: 
+* Water Conditions: 
+* Aquarium Size:
+* Decor: 
+* Aquarium Filter: 
+* Life Span: 
+* Gender: 
+* Breeding: 
+* Popularity: 
+* Names:
+* Variations: 
+ 
+1) This website only for the freshwater fish.
+
+2) easy to invigate
+
+3) it has nice and easy to see graphics
+
+4) easy to find fish and so many choises
+
+5) 2 to 3 pictures of one fish
+
+6) picture open in the new tab when click
+
+7) About us page
+
+8) recently viewd items(fish)
+
+9) you may also like (suggestion)
+
+10) previous and next product button 
+
+11) substitutes and ask a friends for advice options
+
+12) not confusing 
+
+ https://www.thatpetplace.com/glofish-pack-30-gallon (Himani)
+ 
+ The website is for freshwater fish and saltwater fish.
+ 1) Detail information about fish habitat 
+ 
+ 2) Specifiactions like
+ 
+* MPN Manufacturer 
+* Community Safe	
+* Diet	
+* Difficulty
+* Temperature Range	
+* pH Range	
+* Origin	
+* Max Size (in inches)	
+* Internal Id	
+
+3) State Restrictions
+
+4) Insrtuctions about shipping, garantee policy, and also FAQ quetions for costomers to make them more clear.  
+
+5) websites have information about aquarium supply, filter, equipments, fish medication, fish tank heaters, etc,.
+
+The website rating is 5 stars
+
+6) they do not have a feeding schedule.
+
+7) only one picture of the fish
+
+8) zoom in effect when you click on picture
+
+9) navigation bar on the top with bunch of options
+
+10) Email option button when item is available 
